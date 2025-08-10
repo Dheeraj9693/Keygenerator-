@@ -21,6 +21,13 @@
     "allowOffline": true
   },
   {
+    "id": "9cd0cae24011429a",
+    "username": "paid",
+    "password": "paid",
+    "expiresAt": "2025-8-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
