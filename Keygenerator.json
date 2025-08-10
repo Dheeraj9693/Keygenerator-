@@ -16,13 +16,6 @@
   {
     "id": "9cd0cae24011429a",
     "username": "paid",
-    "password": "paidhai",
-    "expiresAt": "2025-8-30",
-    "allowOffline": true
-  },
-  {
-    "id": "9cd0cae24011429a",
-    "username": "paid",
     "password": "paid",
     "expiresAt": "2025-8-30",
     "allowOffline": true
